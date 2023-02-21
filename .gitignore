@@ -14,7 +14,7 @@ node_modules/
 
 # production
 build/
-dist/
+# dist/
 .cache/
 .parcel-cache/
 

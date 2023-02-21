@@ -1,1 +1,0 @@
-export declare const plot: (input?: (import("./plot-types").Plot & import("./plot-types").PlotSettings & import("leva/plugin").InputOptions) | undefined) => import("leva/plugin").CustomInput<(v: number) => any>;
